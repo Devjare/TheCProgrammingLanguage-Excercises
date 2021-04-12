@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1617901600 source:c:\users\reand\documents\projects\c\thecprogramminglanguageexcercises\1.13.c
+	<stdio.h>
+
+1618174023 
+
+1617902105 source:c:\users\reand\documents\projects\c\thecprogramminglanguageexcercises\1.14.c
+	<stdio.h>
+
+1617916636 source:c:\users\reand\documents\projects\c\thecprogramminglanguageexcercises\1.15.c
+	<stdio.h>
+
+1618172735 source:c:\users\reand\documents\projects\c\thecprogramminglanguageexcercises\main.c
+	<stdio.h>
+
+1618000863 source:c:\users\reand\documents\projects\c\thecprogramminglanguageexcercises\longestline.c
+	<stdio.h>
+
+1617987288 source:c:\users\reand\documents\projects\c\thecprogramminglanguageexcercises\test.c
+	<stdio.h>
+
+1617919494 source:c:\users\reand\documents\projects\c\thecprogramminglanguageexcercises\1.17.c
+	<stdio.h>
+
+1618000493 source:c:\users\reand\documents\projects\c\thecprogramminglanguageexcercises\1.18.c
+	<stdio.h>
+
+1618000792 source:c:\users\reand\documents\projects\c\thecprogramminglanguageexcercises\1.8_gchaperon.c
+	<stdio.h>
+
+1618002417 source:c:\users\reand\documents\projects\c\thecprogramminglanguageexcercises\1.19.c
+	<stdio.h>
+
+1618174023 source:c:\users\reand\documents\projects\c\thecprogramminglanguageexcercises\1.20.c
+	<stdio.h>
+
+1617901600 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/1.13.c
+	<stdio.h>
+
+1617902105 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/1.14.c
+	<stdio.h>
+
+1617916636 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/1.15.c
+	<stdio.h>
+
+1617919494 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/1.17.c
+	<stdio.h>
+
+1618000493 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/1.18.c
+	<stdio.h>
+
+1618002417 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/1.19.c
+	<stdio.h>
+
+1618174023 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/1.20.c
+	<stdio.h>
+
+1618000863 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/LongestLine.c
+	<stdio.h>
+
+1618239210 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/main.c
+	<stdio.h>
+
+1617987288 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/test.c
+	<stdio.h>
+
+1617541386 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/1.8.c
+	<stdio.h>
+
+1618238618 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/1.9.c
+	<stdio.h>
+
+1618238646 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/celciusToFahr.c
+	<stdio.h>
+
+1618238696 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/fahrToCelcius.c
+	<stdio.h>
+
