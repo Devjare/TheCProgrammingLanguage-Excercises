@@ -58,7 +58,7 @@
 1618000863 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/LongestLine.c
 	<stdio.h>
 
-1618239210 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/main.c
+1618353490 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/main.c
 	<stdio.h>
 
 1617987288 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/test.c
@@ -75,4 +75,43 @@
 
 1618238696 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/fahrToCelcius.c
 	<stdio.h>
+
+1618352879 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_five/5.1.c
+
+1618352873 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_four/4.1.c
+
+1617901600 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_one/1.13.c
+	<stdio.h>
+
+1617902105 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_one/1.14.c
+	<stdio.h>
+
+1617916636 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_one/1.15.c
+	<stdio.h>
+
+1617919494 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_one/1.17.c
+	<stdio.h>
+
+1618000493 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_one/1.18.c
+	<stdio.h>
+
+1618002417 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_one/1.19.c
+	<stdio.h>
+
+1618174023 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_one/1.20.c
+	<stdio.h>
+
+1618000863 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_one/LongestLine.c
+	<stdio.h>
+
+1618352885 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_six/6.1.c
+
+1618352868 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_three/3.1.c
+
+1618354690 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_two/2.1.c
+	<stdio.h>
+	<limits.h>
+	<float.h>
+
+1618353108 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_two/2.2.c
 

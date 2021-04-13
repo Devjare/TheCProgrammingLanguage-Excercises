@@ -2,6 +2,7 @@
 
 int main()
 {
+    /* CHAPTER ONE EXCERCISES FUNCTIONS */
     // oneFourteen();
     // oneThirteen();
     // oneFifteen();
@@ -10,6 +11,10 @@ int main()
     //sevenTeen();
     // eighTeen();
     // nineTeen();
-    twenty();
+    // twenty();
+
+    /* CHAPTER TWO EXCERSICES FUNCTIONS */
+    chapter2_first();
     return 0;
 }
+
