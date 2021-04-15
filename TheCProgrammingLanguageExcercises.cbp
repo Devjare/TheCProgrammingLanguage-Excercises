@@ -31,34 +31,49 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="1.13.c">
+		<Unit filename="chapter_five/5.1.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="1.14.c">
+		<Unit filename="chapter_four/4.1.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="1.15.c">
+		<Unit filename="chapter_one/1.13.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="1.17.c">
+		<Unit filename="chapter_one/1.14.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="1.18.c">
+		<Unit filename="chapter_one/1.15.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="1.19.c">
+		<Unit filename="chapter_one/1.17.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="1.20.c">
+		<Unit filename="chapter_one/1.18.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="LongestLine.c">
+		<Unit filename="chapter_one/1.19.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_one/1.20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_one/LongestLine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_six/6.1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_three/3.1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_two/2.1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_two/2.2.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="test.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions />
