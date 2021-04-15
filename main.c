@@ -16,6 +16,8 @@ int main()
     /* CHAPTER TWO EXCERSICES FUNCTIONS */
     // chapter2_first();
     // chapter2_second();
-    chapter2_third();
+    // chapter2_third();
+    // chapter2_fourth();
+    chapter2_fifth();
     return 0;
 }

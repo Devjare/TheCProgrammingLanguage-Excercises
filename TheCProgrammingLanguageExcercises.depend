@@ -58,7 +58,7 @@
 1618000863 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/LongestLine.c
 	<stdio.h>
 
-1618504091 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/main.c
+1618524117 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/main.c
 	<stdio.h>
 
 1617987288 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/test.c
@@ -122,4 +122,10 @@
 1618508521 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_two/2.3.c
 	<stdio.h>
 	<ctype.h>
+
+1618510725 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_two/2.4.c
+	<stdio.h>
+
+1618524401 source:/home/andres_reyna/Documents/projects/c/TheCProgrammingLanguageExcercises/chapter_two/2.5.c
+	<stdio.h>
 
