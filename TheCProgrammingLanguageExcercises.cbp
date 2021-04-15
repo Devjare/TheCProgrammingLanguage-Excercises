@@ -31,6 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="atoi.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="chapter_five/5.1.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -73,6 +76,7 @@
 		<Unit filename="chapter_two/2.2.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="chapter_two/2.3" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
