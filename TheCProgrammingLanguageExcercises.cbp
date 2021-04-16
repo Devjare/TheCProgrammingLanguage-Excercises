@@ -77,6 +77,18 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="chapter_two/2.3" />
+		<Unit filename="chapter_two/2.3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_two/2.4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_two/2.5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="clearscreen.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
