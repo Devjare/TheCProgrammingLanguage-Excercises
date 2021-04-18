@@ -86,6 +86,9 @@
 		<Unit filename="chapter_two/2.5.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="chapter_two/2.6.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="clearscreen.c">
 			<Option compilerVar="CC" />
 		</Unit>
