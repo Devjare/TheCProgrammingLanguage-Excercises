@@ -192,9 +192,14 @@
 	<stdlib.h>
 	<time.h>
 
-1618765246 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\main.c
+1618778063 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\main.c
 	<stdio.h>
 
-1618765021 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_two\2.6.c
+1618768186 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_two\2.6.c
 	<stdio.h>
+	<stdint-gcc.h>
+
+1618783560 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_two\2.7.c
+	<stdio.h>
+	<stdint-gcc.h>
 

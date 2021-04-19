@@ -21,8 +21,8 @@ int main()
     // chapter2_third();
     // chapter2_fourth();
     // chapter2_fifth();
-    chapter2_sixth();
-
+    // chapter2_sixth();
+    chapter2_seventh();
 
     // unsigned int n = 28;
     // unsigned int x = getbits(n, 5, 3);
