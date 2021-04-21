@@ -70,6 +70,9 @@
 		<Unit filename="chapter_three/3.1.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="chapter_two/2,10.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="chapter_two/2.1.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -90,6 +93,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="chapter_two/2.7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_two/2.9.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="clearscreen.c">

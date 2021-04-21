@@ -14,6 +14,11 @@ int main()
     // eighTeen();
     // nineTeen();
     // twenty();
+    // ################# PENDING ###############
+    // twentyOne();
+    // twentyTwo();
+    // twentyThree();
+    // twentyFour();
 
     /* CHAPTER TWO EXCERSICES FUNCTIONS */
     // chapter2_first();
@@ -22,7 +27,12 @@ int main()
     // chapter2_fourth();
     // chapter2_fifth();
     // chapter2_sixth();
-    chapter2_seventh();
+
+    // ################# PENDING ###############
+    // chapter2_seventh(); ***** FIX *****
+    // chapter2_eighth(); ***** FIX *****
+    // chapter2_nineth();
+    chapter2_tenth();
 
     // unsigned int n = 28;
     // unsigned int x = getbits(n, 5, 3);
