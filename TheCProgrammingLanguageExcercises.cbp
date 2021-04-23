@@ -5,6 +5,7 @@
 		<Option title="TheCProgrammingLanguageExcercises" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
+		<Option virtualFolders="chapter_three/" />
 		<Build>
 			<Target title="Debug">
 				<Option output="bin/Debug/TheCProgrammingLanguageExcercises" prefix_auto="1" extension_auto="1" />
@@ -68,6 +69,18 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="chapter_three/3.1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_three/3.2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_three/3.3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_three/3.4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_three/3.5.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="chapter_two/2,10.c">

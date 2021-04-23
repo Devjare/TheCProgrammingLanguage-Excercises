@@ -139,7 +139,9 @@
 
 1618600628 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_five\5.1.c
 
-1618600628 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_four\4.1.c
+1619116047 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_four\4.1.c
+	<stdio.h>
+	<string.h>
 
 1618600628 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_one\1.13.c
 	<stdio.h>
@@ -167,7 +169,8 @@
 
 1618600628 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_six\6.1.c
 
-1618600628 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_three\3.1.c
+1619014907 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_three\3.1.c
+	<stdio.h>
 
 1618600628 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_two\2.1.c
 	<stdio.h>
@@ -192,8 +195,9 @@
 	<stdlib.h>
 	<time.h>
 
-1618875400 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\main.c
+1619114486 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\main.c
 	<stdio.h>
+	<limits.h>
 
 1618768186 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_two\2.6.c
 	<stdio.h>
@@ -208,6 +212,23 @@
 	<stdint-gcc.h>
 	<time.h>
 
-1618875383 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_two\2,10.c
+1618876664 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_two\2,10.c
+	<stdio.h>
+
+1619015632 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\3.2.c
+	<stdio.h>
+
+1619018247 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_three\3.2.c
+	<stdio.h>
+
+1619020077 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_three\3.3.c
+	<stdio.h>
+
+1619022750 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_three\3.4.c
+	<stdio.h>
+	<string.h>
+	<limits.h>
+
+1619114419 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_three\3.5.c
 	<stdio.h>
 

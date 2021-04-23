@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <limits.h>
 
 unsigned getbits(unsigned x, int p, int n);
 
@@ -32,7 +33,16 @@ int main()
     // chapter2_seventh(); ***** FIX *****
     // chapter2_eighth(); ***** FIX *****
     // chapter2_nineth();
-    chapter2_tenth();
+    //chapter2_tenth();
+
+    // chapter3_first();
+    // chapter3_second();
+    // chapter3_third();
+    // chapter3_fourth();
+    // chapter3_fifth();
+    // chapter3_sixth(); /* PENDING */
+
+    chapter4_first();
 
     // unsigned int n = 28;
     // unsigned int x = getbits(n, 5, 3);
