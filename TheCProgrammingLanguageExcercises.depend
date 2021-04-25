@@ -139,7 +139,7 @@
 
 1618600628 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_five\5.1.c
 
-1619116047 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_four\4.1.c
+1619135508 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_four\4.1.c
 	<stdio.h>
 	<string.h>
 
@@ -195,7 +195,7 @@
 	<stdlib.h>
 	<time.h>
 
-1619114486 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\main.c
+1619312249 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\main.c
 	<stdio.h>
 	<limits.h>
 
@@ -231,4 +231,26 @@
 
 1619114419 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_three\3.5.c
 	<stdio.h>
+
+1619308961 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_four\polishcalculator.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"calc.h"
+
+1619312101 c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_four\calc.h
+	<stdlib.h>
+
+1619312391 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_four\getop.c
+	<ctype.h>
+	<stdio.h>
+	"calc.h"
+
+1619312418 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_four\stack.c
+	<stdio.h>
+	"calc.h"
+
+1619312376 source:c:\users\reand\documents\projects\c\thecprogramminglanguage-excercises\chapter_four\getch.c
+	<stdio.h>
+	"calc.h"
 

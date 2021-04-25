@@ -3,6 +3,8 @@
 
 unsigned getbits(unsigned x, int p, int n);
 
+void foobar(void);
+
 int main()
 {
     /* CHAPTER ONE EXCERCISES FUNCTIONS */
@@ -42,7 +44,8 @@ int main()
     // chapter3_fifth();
     // chapter3_sixth(); /* PENDING */
 
-    chapter4_first();
+    // chapter4_first();
+    polishCalcExample();
 
     // unsigned int n = 28;
     // unsigned int x = getbits(n, 5, 3);
@@ -60,6 +63,13 @@ int main()
     printf("Finally ends!");
     */
     return 0;
+}
+
+int somevar = 0;
+
+void foobar()
+{
+    printf("Some var: %d\n", ++somevar);
 }
 
 unsigned getbits(unsigned x, int p, int n)

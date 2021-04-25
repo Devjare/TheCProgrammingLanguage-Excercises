@@ -5,7 +5,7 @@
 		<Option title="TheCProgrammingLanguageExcercises" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
-		<Option virtualFolders="chapter_three/" />
+		<Option virtualFolders="chapter_three/;chapter_four/" />
 		<Build>
 			<Target title="Debug">
 				<Option output="bin/Debug/TheCProgrammingLanguageExcercises" prefix_auto="1" extension_auto="1" />
@@ -39,6 +39,19 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="chapter_four/4.1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_four/PolishCalculator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_four/calc.h" />
+		<Unit filename="chapter_four/getch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_four/getop.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chapter_four/stack.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="chapter_one/1.13.c">
